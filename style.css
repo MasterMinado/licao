@@ -1,0 +1,35 @@
+.i {
+    border: 5px solid cyan;
+    width: 1000px;
+    height: 50px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.o {
+    border: 3px solid coral;
+    width: 30rem;
+    height: 40px;
+    margin: 200px;
+    padding: 15px;
+    text-align: center;
+}
+
+.p {
+    border: 3px solid gray;
+    width: 40rem;
+    height: 88px;
+    margin: auto;
+    padding: 16px;
+    text-align: center;
+}
+
+.k {
+    border: 3px solid firebrick;
+    width: 50rem;
+    height: 38px;
+    margin: 216px;
+    padding: 26px;
+    text-align: center;
+}
